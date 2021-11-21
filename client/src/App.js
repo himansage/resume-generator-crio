@@ -1,9 +1,7 @@
+import Resume from "./components/Resume";
+
 function App() {
-  return (
-    <div>
-    
-    </div>
-  );
+  return <Resume />;
 }
 
 export default App;
